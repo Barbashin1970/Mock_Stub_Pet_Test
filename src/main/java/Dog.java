@@ -20,4 +20,7 @@ public class Dog {
     public int getLegsCount() {
         return legsCount;
     }
+    public String getSound(String sound) {
+        return sound;
+    }
 }
